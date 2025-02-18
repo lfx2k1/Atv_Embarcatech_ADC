@@ -53,8 +53,11 @@ Antes de rodar o programa, certifique-se de ter os seguintes itens configurados:
 - **Cabo USB**: Para alimentação e comunicação serial com o Raspberry Pi Pico.
 
 ### 2. Compilação e Upload
+
 Clone este repositório:
+
 git clone https://github.com/lfx2k1/Atv_Embarcatech_ADC.git
+
 cd Atv_Embarcatech_ADC
 
 Compile o código e gere o arquivo .uf2.

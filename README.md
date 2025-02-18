@@ -6,6 +6,9 @@ Repositório para atividade de controle de LEDs RGB e display OLED utilizando AD
 ## Descrição
 Este projeto implementa um sistema de controle de intensidade de LEDs RGB e movimentação de um quadrado em um display SSD1306, com base nos valores de entrada de um joystick analógico, utilizando o Raspberry Pi Pico W.
 
+## Vídeo com demonstração
+Link: https://youtu.be/2P6vsuYNhhM
+
 ## Componentes Utilizados
 - **LEDs RGB**:
   - **Azul (GPIO 11)** - Controlado pelo eixo Y do joystick.

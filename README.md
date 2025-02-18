@@ -76,4 +76,5 @@ Após carregar o código, o sistema estará pronto para interação:
 - Observe o quadrado se mover no display conforme os eixos X e Y do joystick.
 - Pressione o botão do joystick para alternar o LED Verde e mudar a borda do display.
 - Pressione o botão A para ativar/desativar os LEDs RGB.
+- Pressione o botão B para colocar a placa BitDogLab em modo de gravação.
 
